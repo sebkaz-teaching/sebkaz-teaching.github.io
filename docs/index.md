@@ -10,6 +10,7 @@ Sebastian Zajac earned his PhD in Physics at the University of Silesia in Katowi
 ## Courses
 
 [Real Time Analytics PL](https://sebkaz-teaching.github.io/RealTime/)
+[Basics and Advanced SAS Programming - 2020](https://sebkaz.github.io/teaching/Programowanie_SAS/index.html)
 
 ### Contact
 
