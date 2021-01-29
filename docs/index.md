@@ -13,6 +13,11 @@ Sebastian Zajac earned his PhD in Physics at the University of Silesia in Katowi
 
 [Basics and Advanced SAS Programming - 2020](https://sebkaz-teaching.github.io/ProgramowanieSAS/index.html)
 
+## For students
+
+[Polish SAS Users Group](http://polsug.com/PolSUG_intro.pdf)
+
+
 ### Contact
 
 SGH Warsaw School of Economics 
