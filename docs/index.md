@@ -4,12 +4,14 @@ Welcome to the official web page of My SGH Courses.
 
 ## About me
 
-Sebastian Zajac earned his PhD in Physics at the University of Silesia in Katowice. He is currently a theoretical physicist, an assistant professor at the Decision Analysis and Support Unit at SGH Warsaw School of Economics (Poland). He is a [QPoland](https://qworld.net/qpoland/) member. The focus of his research are: Quantum Machine Learning, mathematical physics, in particular symmetries in neutrino physics and geometry, topology and Category Theory in Quantum Mechanics, Quantum Field Theory and Quantum Computing. His latest publications center around the flavour problem in the field of neutrino physics and feature selection methods in predictive models. With Piotr Sulkowski and Joanna Sulkowska they are trying to characterize RNA and protein structures by their topological characteristics called genus. The results of this work you can see on web serwer [GENUS](http://genus.fuw.edu.pl).
+Sebastian Zajac earned his PhD in Physics at the University of Silesia in Katowice. He is currently a theoretical physicist, an assistant professor at the Decision Analysis and Support Unit at SGH Warsaw School of Economics (Poland). He is a [QPoland](https://qworld.net/qpoland/) member. The focus of his research are: Quantum Machine Learning, Real-Time analytics, data analysis in business, in particular geometry, topology and Category Theory in Quantum Mechanics, Quantum Field Theory and Quantum Computing. His latest publications center around the outliers detection in graphs (Toronto Univeristy) and time series and real-time data processing and analysis. With Piotr Sulkowski and Joanna Sulkowska they are trying to characterize RNA and protein structures by their topological characteristics called genus. The results of this work you can see on web serwer GENUS.The results of this work you can see on web serwer [GENUS](http://genus.fuw.edu.pl).
 
 
 ## Courses
 
+
 ### ===== 2022/2023 =====
+[Analiza danych w czasie rzeczywistym PL](https://sebkaz-teaching.github.io/RTA_summer2023/) -  2022
 
 [Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/intro_to_qml)
 
