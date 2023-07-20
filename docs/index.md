@@ -9,13 +9,14 @@ Sebastian Zajac earned his PhD in Physics at the University of Silesia in Katowi
 
 ## Courses
 
+### ===== 2023/2024 =====
+
+[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/intro_to_qml)
 
 ### ===== 2022/2023 =====
 [Analiza danych w czasie rzeczywistym PL](https://sebkaz-teaching.github.io/RTA_2023/) -  2023
 
 [Real Time Analytics EN](https://sebkaz-teaching.github.io/RTA_2023EN/) - 2023
-
-[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/intro_to_qml)
 
 ### ===== 2021/2022 =====
 
