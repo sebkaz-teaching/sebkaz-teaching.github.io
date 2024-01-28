@@ -15,6 +15,7 @@ Overall, my research showcases a commitment to pushing the boundaries of technol
 
 ### ===== 2023/2024 =====
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2024/)
+
 [Real Time Analytics 2024](https://sebkaz-teaching.github.io/RTA_2024EN/)
 
 [Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/intro_to_qml/)
