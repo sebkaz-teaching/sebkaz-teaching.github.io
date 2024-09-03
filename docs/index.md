@@ -4,7 +4,11 @@ Welcome to the official web page of My SGH Courses.
 
 ## About me
 
-I'm a theoretical physicist and an assistant professor at the Decision Analysis and Support Unit at SGH Warsaw School of Economics (Poland). I am a researcher with a keen focus on the intersection of cutting-edge technologies and practical business applications. My primary research areas encompass Quantum Machine Learning and Quantum Computing on NISQ devices, which reflect my dedication to exploring the potential of quantum computing in solving complex problems. Additionally, I am deeply involved in streaming data analytics, where I seek to harness real-time data for meaningful insights. A significant aspect of my work involves the fusion of quantum and classical optimisation techniques to enhance business processes.
+I'm a theoretical physicist and an assistant professor at the Decision Analysis and Support Unit at SGH Warsaw School of Economics (Poland). 
+I am a researcher with a keen focus on the intersection of cutting-edge technologies and practical business applications. 
+My primary research areas encompass Quantum Machine Learning and Quantum Computing on NISQ devices, which reflect my dedication to exploring the potential of quantum computing in solving complex problems.
+Additionally, I am deeply involved in streaming data analytics, where I seek to harness real-time data for meaningful insights. 
+A significant aspect of my work involves the fusion of quantum and classical optimisation techniques to enhance business processes.
 
 My recent contributions to the academic landscape include publications that demonstrate my expertise in outlier detection. Specifically, I have delved into the challenging domains of complex networks and time series data, where I've developed novel methodologies for identifying outliers, ultimately contributing to a deeper understanding of these intricate data structures.
 
@@ -12,6 +16,9 @@ Overall, my research showcases a commitment to pushing the boundaries of technol
 
 
 ## Courses
+
+### ===== 2024/2025 =====
+[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/intro_to_qml24/)
 
 ### ===== 2023/2024 =====
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2024/)
@@ -55,4 +62,4 @@ al. Niepodległości 162
 
 sebastian.zajac [at] sgh.waw.pl
 
-[My Web page](https://sebastianzajac.pl)
+[My personal web page](https://sebastianzajac.pl)
