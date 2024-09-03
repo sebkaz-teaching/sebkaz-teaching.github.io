@@ -5,20 +5,14 @@ Welcome to the official web page of My SGH Courses.
 ## About me
 
 I'm a theoretical physicist and an assistant professor at the Decision Analysis and Support Unit at SGH Warsaw School of Economics (Poland). 
-I am a researcher with a keen focus on the intersection of cutting-edge technologies and practical business applications. 
-My primary research areas encompass Quantum Machine Learning and Quantum Computing on NISQ devices, which reflect my dedication to exploring the potential of quantum computing in solving complex problems.
-Additionally, I am deeply involved in streaming data analytics, where I seek to harness real-time data for meaningful insights. 
-A significant aspect of my work involves the fusion of quantum and classical optimisation techniques to enhance business processes.
 
-My recent contributions to the academic landscape include publications that demonstrate my expertise in outlier detection. Specifically, I have delved into the challenging domains of complex networks and time series data, where I've developed novel methodologies for identifying outliers, ultimately contributing to a deeper understanding of these intricate data structures.
-
-Overall, my research showcases a commitment to pushing the boundaries of technology while addressing real-world challenges and making strides in both the quantum and data analytics domains.
+A specialist in graph theory with extensive experience in creating and analyzing new variables based on graph community structures, focused on business applications. I work with data analysis using advanced machine learning (ML) and deep learning (DL) models, both in batch mode and real-time processing. As an MLOps professional, I am responsible for code verification and deploying model solutions in cloud environments. Additionally, as a physicist, I explore the potential of quantum machine learning, combining my knowledge of physics with modern technologies.
 
 
 ## Courses
 
 ### ===== 2024/2025 =====
-[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/intro_to_qml24/)
+[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml2024/)
 
 ### ===== 2023/2024 =====
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2024/)
