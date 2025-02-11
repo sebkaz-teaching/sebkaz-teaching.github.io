@@ -38,7 +38,7 @@ possible
 
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2025/)
 
-[Real Time Analytics 2024](https://sebkaz-teaching.github.io/RTA_2025EN/)
+[Real Time Analytics](https://sebkaz-teaching.github.io/RTA_2025EN/)
 
 [Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml2024/)
 
@@ -58,7 +58,7 @@ sebastian.zajac [at] sgh.waw.pl
 
 [My personal web page](https://sebastianzajac.pl)
 
-### Archive
+<!-- ### Archive
 
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2024/)
 
@@ -76,4 +76,4 @@ sebastian.zajac [at] sgh.waw.pl
 
 [Analiza danych w czasie rzeczywistym PL](https://sebkaz-teaching.github.io/RealTime/) - 2021
 
-[Basics and Advanced SAS Programming](https://sebkaz-teaching.github.io/ProgramowanieSAS/index.html) - 2020 
+[Basics and Advanced SAS Programming](https://sebkaz-teaching.github.io/ProgramowanieSAS/index.html) - 2020  -->
