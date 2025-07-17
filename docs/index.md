@@ -36,12 +36,11 @@ possible
 
 ## Courses
 
+[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml2025/)
+
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2025/)
 
 [Real Time Analytics](https://sebkaz-teaching.github.io/RTA_2025EN/)
-
-[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml2024/)
-
 
 ## For students
 
@@ -59,6 +58,7 @@ sebastian.zajac [at] sgh.waw.pl
 [My personal web page](https://sebastianzajac.pl)
 
 <!-- ### Archive
+[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml2024/)
 
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2024/)
 
