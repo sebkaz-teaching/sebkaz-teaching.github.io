@@ -38,9 +38,12 @@ possible
 
 [Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml2025/)
 
-[Projektowanie relacyjnych baz danych](#)
+[Projektowanie relacyjnych baz danych](https://sebkaz-teaching.github.io/prba)
 
-[Relacyjne systemy organizacji danych](#)
+[Relacyjne systemy organizacji danych](https://sebkaz-teaching.github.io/rsod)
+
+
+## 2024/2025
 
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2025/)
 
