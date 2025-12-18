@@ -45,6 +45,8 @@ possible
 
 ## 2024/2025
 
+[Technologie kwantowe](https://sebkaz-teaching.github.io/technologiekwantowe/
+
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2025/)
 
 [Real Time Analytics](https://sebkaz-teaching.github.io/RTA_2025EN/)
