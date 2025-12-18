@@ -36,6 +36,8 @@ possible
 
 ## Courses
 
+[Technologie kwantowe](https://sebkaz-teaching.github.io/technologiekwantowe/)
+
 [Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml2025/)
 
 [Projektowanie relacyjnych baz danych](https://sebkaz-teaching.github.io/prba)
@@ -45,7 +47,6 @@ possible
 
 ## 2024/2025
 
-[Technologie kwantowe](https://sebkaz-teaching.github.io/technologiekwantowe/
 
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA_2025/)
 
