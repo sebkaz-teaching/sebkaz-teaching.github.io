@@ -19,9 +19,9 @@ I’m passionate about translating these "abstract" physics concepts into powerf
 
 [Analiza danych w czasie rzeczywistym](https://sebkaz-teaching.github.io/RTA2026/)
 
-[Real Time Analytics](https://sebkaz-teaching.github.io/RTA_2026EN/)
+[Real Time Analytics](https://sebkaz-teaching.github.io/RTA2026EN/)
 
-[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml_2025/)
+[Wprowadzenie do kwantowego uczenia maszynowego](https://sebkaz-teaching.github.io/qml2025/)
 
 
 ### WAT
