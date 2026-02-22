@@ -26,7 +26,7 @@ I’m passionate about translating these "abstract" physics concepts into powerf
 
 ### WAT
 
-[Podstawy Programowania 1](#)
+[Podstawy Programowania 1](https://sebkaz-teaching.github.io/PodstawyProgramowania/)
 
 [Projektowanie aplikacji internetowych i korporacyjnych](#)
 
