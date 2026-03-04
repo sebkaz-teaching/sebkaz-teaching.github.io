@@ -28,7 +28,7 @@ I’m passionate about translating these "abstract" physics concepts into powerf
 
 [Podstawy Programowania 1](https://sebkaz-teaching.github.io/PodstawyProgramowania/)
 
-[Projektowanie aplikacji internetowych i korporacyjnych](#)
+[Projektowanie aplikacji internetowych i korporacyjnych](https://sebkaz-teaching.github.io/paikw/)
 
 [Projektowanie relacyjnych baz danych](https://sebkaz-teaching.github.io/prba)
 
