@@ -50,11 +50,6 @@ I'm passionate about translating these "abstract" physics concepts into powerful
 
 ### Contact
 
-SGH Warsaw School of Economics
-Collegium of Economic Analysis
-al. Niepodległości 162
-02-554 Warsaw, Poland
-
-[sebastian.zajac@sgh.waw.pl](mailto:sebastian.zajac@sgh.waw.pl)
+[sebastian.zajac@wat.edu.pl](mailto:sebastian.zajac@wat.edu.pl)
 
 [My personal web page](https://sebastianzajac.pl)
